@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "bb400a9b",
+   "id": "f15140d9",
    "metadata": {
     "_execution_state": "idle",
     "_uuid": "051d70d956493feee0c6d64651c6a088724dca2a",
     "execution": {
-     "iopub.execute_input": "2022-12-05T23:40:55.490716Z",
-     "iopub.status.busy": "2022-12-05T23:40:55.488080Z",
-     "iopub.status.idle": "2022-12-05T23:40:58.877784Z",
-     "shell.execute_reply": "2022-12-05T23:40:58.876034Z"
+     "iopub.execute_input": "2022-12-06T01:23:55.397621Z",
+     "iopub.status.busy": "2022-12-06T01:23:55.395951Z",
+     "iopub.status.idle": "2022-12-06T01:23:58.456099Z",
+     "shell.execute_reply": "2022-12-06T01:23:58.454743Z"
     },
     "papermill": {
-     "duration": 3.398296,
-     "end_time": "2022-12-05T23:40:58.880321",
+     "duration": 3.067877,
+     "end_time": "2022-12-06T01:23:58.458332",
      "exception": false,
-     "start_time": "2022-12-05T23:40:55.482025",
+     "start_time": "2022-12-06T01:23:55.390455",
      "status": "completed"
     },
     "tags": []
@@ -70,19 +70,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "341f33f5",
+   "id": "3c490430",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-05T23:40:58.917778Z",
-     "iopub.status.busy": "2022-12-05T23:40:58.888273Z",
-     "iopub.status.idle": "2022-12-05T23:40:58.957131Z",
-     "shell.execute_reply": "2022-12-05T23:40:58.955397Z"
+     "iopub.execute_input": "2022-12-06T01:23:58.494536Z",
+     "iopub.status.busy": "2022-12-06T01:23:58.467118Z",
+     "iopub.status.idle": "2022-12-06T01:23:58.531918Z",
+     "shell.execute_reply": "2022-12-06T01:23:58.530420Z"
     },
     "papermill": {
-     "duration": 0.075825,
-     "end_time": "2022-12-05T23:40:58.959500",
+     "duration": 0.071907,
+     "end_time": "2022-12-06T01:23:58.533946",
      "exception": false,
-     "start_time": "2022-12-05T23:40:58.883675",
+     "start_time": "2022-12-06T01:23:58.462039",
      "status": "completed"
     },
     "tags": []
@@ -95,19 +95,19 @@
   },
   {
    "cell_type": "markdown",
-   "id": "367285cb",
+   "id": "b4a0363b",
    "metadata": {
     "papermill": {
-     "duration": 0.003194,
-     "end_time": "2022-12-05T23:40:58.965968",
+     "duration": 0.00359,
+     "end_time": "2022-12-06T01:23:58.541266",
      "exception": false,
-     "start_time": "2022-12-05T23:40:58.962774",
+     "start_time": "2022-12-06T01:23:58.537676",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "## Information on the Variables:\n",
+    "## Information on the Variables\n",
     "\n",
     "Abalone is a marine snail and is an edible shellfish. Since abalones have been overfished in the past and are a vital part of the ecosystem the abalone fishery has regulations in place. Scientists want to determine if machine learning can be used to predict the age of an abalone to help guide these regulations.\n",
     "\n",
@@ -130,19 +130,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "ad501d72",
+   "id": "1183ac8e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-05T23:40:58.975095Z",
-     "iopub.status.busy": "2022-12-05T23:40:58.973610Z",
-     "iopub.status.idle": "2022-12-05T23:40:59.019209Z",
-     "shell.execute_reply": "2022-12-05T23:40:59.017453Z"
+     "iopub.execute_input": "2022-12-06T01:23:58.550644Z",
+     "iopub.status.busy": "2022-12-06T01:23:58.549398Z",
+     "iopub.status.idle": "2022-12-06T01:23:58.590070Z",
+     "shell.execute_reply": "2022-12-06T01:23:58.588753Z"
     },
     "papermill": {
-     "duration": 0.052575,
-     "end_time": "2022-12-05T23:40:59.021532",
+     "duration": 0.047108,
+     "end_time": "2022-12-06T01:23:58.591695",
      "exception": false,
-     "start_time": "2022-12-05T23:40:58.968957",
+     "start_time": "2022-12-06T01:23:58.544587",
      "status": "completed"
     },
     "tags": []
@@ -241,19 +241,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "04f75cbb",
+   "id": "7112220f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-05T23:40:59.031587Z",
-     "iopub.status.busy": "2022-12-05T23:40:59.030227Z",
-     "iopub.status.idle": "2022-12-05T23:40:59.046691Z",
-     "shell.execute_reply": "2022-12-05T23:40:59.045141Z"
+     "iopub.execute_input": "2022-12-06T01:23:58.602380Z",
+     "iopub.status.busy": "2022-12-06T01:23:58.601021Z",
+     "iopub.status.idle": "2022-12-06T01:23:58.615386Z",
+     "shell.execute_reply": "2022-12-06T01:23:58.614035Z"
     },
     "papermill": {
-     "duration": 0.023849,
-     "end_time": "2022-12-05T23:40:59.049078",
+     "duration": 0.02165,
+     "end_time": "2022-12-06T01:23:58.617056",
      "exception": false,
-     "start_time": "2022-12-05T23:40:59.025229",
+     "start_time": "2022-12-06T01:23:58.595406",
      "status": "completed"
     },
     "tags": []
@@ -279,25 +279,115 @@
     }
    ],
    "source": [
+    "#missing data\n",
     "sum(is.na(abaloneAGE))"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3a88980b",
+   "metadata": {
+    "papermill": {
+     "duration": 0.00362,
+     "end_time": "2022-12-06T01:23:58.624499",
+     "exception": false,
+     "start_time": "2022-12-06T01:23:58.620879",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "The two abalones with a height of 0 are infants and size may have been negligible or impossible to determine. These seem to be valid height measurements so will not remove them as outliers or replace them with the mean."
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "17cff9e9",
+   "id": "9a81d41f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-05T23:40:59.058872Z",
-     "iopub.status.busy": "2022-12-05T23:40:59.057409Z",
-     "iopub.status.idle": "2022-12-05T23:40:59.075873Z",
-     "shell.execute_reply": "2022-12-05T23:40:59.073819Z"
+     "iopub.execute_input": "2022-12-06T01:23:58.634504Z",
+     "iopub.status.busy": "2022-12-06T01:23:58.633210Z",
+     "iopub.status.idle": "2022-12-06T01:23:58.648064Z",
+     "shell.execute_reply": "2022-12-06T01:23:58.646718Z"
     },
     "papermill": {
-     "duration": 0.026074,
-     "end_time": "2022-12-05T23:40:59.078597",
+     "duration": 0.021931,
+     "end_time": "2022-12-06T01:23:58.649973",
      "exception": false,
-     "start_time": "2022-12-05T23:40:59.052523",
+     "start_time": "2022-12-06T01:23:58.628042",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<style>\n",
+       ".dl-inline {width: auto; margin:0; padding: 0}\n",
+       ".dl-inline>dt, .dl-inline>dd {float: none; width: auto; display: inline-block}\n",
+       ".dl-inline>dt::after {content: \":\\0020\"; padding-right: .5ex}\n",
+       ".dl-inline>dt:not(:first-of-type) {padding-left: .5ex}\n",
+       "</style><dl class=dl-inline><dt>Sex</dt><dd>0</dd><dt>Length</dt><dd>0</dd><dt>Diameter</dt><dd>0</dd><dt>Height</dt><dd>2</dd><dt>Whole.weight</dt><dd>0</dd><dt>Shucked.weight</dt><dd>0</dd><dt>Viscera.weight</dt><dd>0</dd><dt>Shell.weight</dt><dd>0</dd><dt>Rings</dt><dd>0</dd></dl>\n"
+      ],
+      "text/latex": [
+       "\\begin{description*}\n",
+       "\\item[Sex] 0\n",
+       "\\item[Length] 0\n",
+       "\\item[Diameter] 0\n",
+       "\\item[Height] 2\n",
+       "\\item[Whole.weight] 0\n",
+       "\\item[Shucked.weight] 0\n",
+       "\\item[Viscera.weight] 0\n",
+       "\\item[Shell.weight] 0\n",
+       "\\item[Rings] 0\n",
+       "\\end{description*}\n"
+      ],
+      "text/markdown": [
+       "Sex\n",
+       ":   0Length\n",
+       ":   0Diameter\n",
+       ":   0Height\n",
+       ":   2Whole.weight\n",
+       ":   0Shucked.weight\n",
+       ":   0Viscera.weight\n",
+       ":   0Shell.weight\n",
+       ":   0Rings\n",
+       ":   0\n",
+       "\n"
+      ],
+      "text/plain": [
+       "           Sex         Length       Diameter         Height   Whole.weight \n",
+       "             0              0              0              2              0 \n",
+       "Shucked.weight Viscera.weight   Shell.weight          Rings \n",
+       "             0              0              0              0 "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "colSums(abaloneAGE==0)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "9121ff0f",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-12-06T01:23:58.660419Z",
+     "iopub.status.busy": "2022-12-06T01:23:58.659199Z",
+     "iopub.status.idle": "2022-12-06T01:23:58.672967Z",
+     "shell.execute_reply": "2022-12-06T01:23:58.671648Z"
+    },
+    "papermill": {
+     "duration": 0.021143,
+     "end_time": "2022-12-06T01:23:58.675137",
+     "exception": false,
+     "start_time": "2022-12-06T01:23:58.653994",
      "status": "completed"
     },
     "tags": []
@@ -339,21 +429,38 @@
    ]
   },
   {
+   "cell_type": "markdown",
+   "id": "c14d6e0c",
+   "metadata": {
+    "papermill": {
+     "duration": 0.0039,
+     "end_time": "2022-12-06T01:23:58.683412",
+     "exception": false,
+     "start_time": "2022-12-06T01:23:58.679512",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "## Descriptive Statistics and Histograms"
+   ]
+  },
+  {
    "cell_type": "code",
-   "execution_count": 6,
-   "id": "ddff2f1f",
+   "execution_count": 7,
+   "id": "bce0d559",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-05T23:40:59.089256Z",
-     "iopub.status.busy": "2022-12-05T23:40:59.087824Z",
-     "iopub.status.idle": "2022-12-05T23:40:59.299765Z",
-     "shell.execute_reply": "2022-12-05T23:40:59.298135Z"
+     "iopub.execute_input": "2022-12-06T01:23:58.693828Z",
+     "iopub.status.busy": "2022-12-06T01:23:58.692576Z",
+     "iopub.status.idle": "2022-12-06T01:23:58.878536Z",
+     "shell.execute_reply": "2022-12-06T01:23:58.877017Z"
     },
     "papermill": {
-     "duration": 0.219506,
-     "end_time": "2022-12-05T23:40:59.302041",
+     "duration": 0.193849,
+     "end_time": "2022-12-06T01:23:58.881035",
      "exception": false,
-     "start_time": "2022-12-05T23:40:59.082535",
+     "start_time": "2022-12-06T01:23:58.687186",
      "status": "completed"
     },
     "tags": []
@@ -371,9 +478,7 @@
       "\n",
       "    %+%, alpha\n",
       "\n",
-      "\n",
-      "Warning message in describeBy(abaloneAGE):\n",
-      "“no grouping variable requested”\n"
+      "\n"
      ]
     },
     {
@@ -461,25 +566,25 @@
    ],
    "source": [
     "library(psych)\n",
-    "describeBy(abaloneAGE)"
+    "describe(abaloneAGE)"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 7,
-   "id": "d72cb812",
+   "execution_count": 8,
+   "id": "99ec331d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-05T23:40:59.313271Z",
-     "iopub.status.busy": "2022-12-05T23:40:59.311894Z",
-     "iopub.status.idle": "2022-12-05T23:40:59.630429Z",
-     "shell.execute_reply": "2022-12-05T23:40:59.628740Z"
+     "iopub.execute_input": "2022-12-06T01:23:58.893013Z",
+     "iopub.status.busy": "2022-12-06T01:23:58.891744Z",
+     "iopub.status.idle": "2022-12-06T01:23:59.232326Z",
+     "shell.execute_reply": "2022-12-06T01:23:59.230912Z"
     },
     "papermill": {
-     "duration": 0.327167,
-     "end_time": "2022-12-05T23:40:59.633434",
+     "duration": 0.348505,
+     "end_time": "2022-12-06T01:23:59.234404",
      "exception": false,
-     "start_time": "2022-12-05T23:40:59.306267",
+     "start_time": "2022-12-06T01:23:58.885899",
      "status": "completed"
     },
     "tags": []
@@ -520,21 +625,335 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "669a7d71",
+   "cell_type": "markdown",
+   "id": "ccbe93c4",
    "metadata": {
     "papermill": {
-     "duration": 0.005286,
-     "end_time": "2022-12-05T23:40:59.644229",
+     "duration": 0.005595,
+     "end_time": "2022-12-06T01:23:59.245386",
      "exception": false,
-     "start_time": "2022-12-05T23:40:59.638943",
+     "start_time": "2022-12-06T01:23:59.239791",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "None of the variables appear to have 0 variance."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "4b433e9f",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-12-06T01:23:59.265626Z",
+     "iopub.status.busy": "2022-12-06T01:23:59.264283Z",
+     "iopub.status.idle": "2022-12-06T01:23:59.304221Z",
+     "shell.execute_reply": "2022-12-06T01:23:59.302907Z"
+    },
+    "papermill": {
+     "duration": 0.055175,
+     "end_time": "2022-12-06T01:23:59.305894",
+     "exception": false,
+     "start_time": "2022-12-06T01:23:59.250719",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "0.0144223076482966"
+      ],
+      "text/latex": [
+       "0.0144223076482966"
+      ],
+      "text/markdown": [
+       "0.0144223076482966"
+      ],
+      "text/plain": [
+       "[1] 0.01442231"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "0.00984855103022665"
+      ],
+      "text/latex": [
+       "0.00984855103022665"
+      ],
+      "text/markdown": [
+       "0.00984855103022665"
+      ],
+      "text/plain": [
+       "[1] 0.009848551"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "0.0017495026644267"
+      ],
+      "text/latex": [
+       "0.0017495026644267"
+      ],
+      "text/markdown": [
+       "0.0017495026644267"
+      ],
+      "text/plain": [
+       "[1] 0.001749503"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "0.240481389201562"
+      ],
+      "text/latex": [
+       "0.240481389201562"
+      ],
+      "text/markdown": [
+       "0.240481389201562"
+      ],
+      "text/plain": [
+       "[1] 0.2404814"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "0.0492675507435239"
+      ],
+      "text/latex": [
+       "0.0492675507435239"
+      ],
+      "text/markdown": [
+       "0.0492675507435239"
+      ],
+      "text/plain": [
+       "[1] 0.04926755"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "0.0120152838599927"
+      ],
+      "text/latex": [
+       "0.0120152838599927"
+      ],
+      "text/markdown": [
+       "0.0120152838599927"
+      ],
+      "text/plain": [
+       "[1] 0.01201528"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "0.0193773832021586"
+      ],
+      "text/latex": [
+       "0.0193773832021586"
+      ],
+      "text/markdown": [
+       "0.0193773832021586"
+      ],
+      "text/plain": [
+       "[1] 0.01937738"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "10.3952659473471"
+      ],
+      "text/latex": [
+       "10.3952659473471"
+      ],
+      "text/markdown": [
+       "10.3952659473471"
+      ],
+      "text/plain": [
+       "[1] 10.39527"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "var(abaloneAGE$Length)\n",
+    "var(abaloneAGE$Diameter)\n",
+    "var(abaloneAGE$Height)\n",
+    "var(abaloneAGE$Whole.weight)\n",
+    "var(abaloneAGE$Shucked.weight)\n",
+    "var(abaloneAGE$Viscera.weight)\n",
+    "var(abaloneAGE$Shell.weight)\n",
+    "var(abaloneAGE$Rings)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "04f7fbda",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-12-06T01:23:59.321195Z",
+     "iopub.status.busy": "2022-12-06T01:23:59.319886Z",
+     "iopub.status.idle": "2022-12-06T01:23:59.334049Z",
+     "shell.execute_reply": "2022-12-06T01:23:59.332602Z"
+    },
+    "papermill": {
+     "duration": 0.023682,
+     "end_time": "2022-12-06T01:23:59.335874",
+     "exception": false,
+     "start_time": "2022-12-06T01:23:59.312192",
      "status": "completed"
     },
     "tags": []
    },
    "outputs": [],
-   "source": []
+   "source": [
+    "# grouping variable names into types\n",
+    "  \n",
+    "  outcome <- c('Rings')  \n",
+    "  \n",
+    "  continuous <- c('Length', 'Diameter', \"Height\", \"Whole.weight\", \"Shucked.weight\", \"Viscera.weight\", \"Shell.weight\") \n",
+    "\n",
+    "  nominal <- c('Sex')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "88efbba6",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-12-06T01:23:59.350850Z",
+     "iopub.status.busy": "2022-12-06T01:23:59.349630Z",
+     "iopub.status.idle": "2022-12-06T01:23:59.364074Z",
+     "shell.execute_reply": "2022-12-06T01:23:59.362596Z"
+    },
+    "papermill": {
+     "duration": 0.023843,
+     "end_time": "2022-12-06T01:23:59.365829",
+     "exception": false,
+     "start_time": "2022-12-06T01:23:59.341986",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "# converting nominal variable to a factor\n",
+    "  \n",
+    "  for(i in nominal){\n",
+    "    \n",
+    "    abaloneAGE[,i] <- as.factor(abaloneAGE[,i])}"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "id": "d578af39",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-12-06T01:23:59.381136Z",
+     "iopub.status.busy": "2022-12-06T01:23:59.379832Z",
+     "iopub.status.idle": "2022-12-06T01:23:59.485371Z",
+     "shell.execute_reply": "2022-12-06T01:23:59.483953Z"
+    },
+    "papermill": {
+     "duration": 0.11513,
+     "end_time": "2022-12-06T01:23:59.487029",
+     "exception": false,
+     "start_time": "2022-12-06T01:23:59.371899",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "Recipe\n",
+       "\n",
+       "Inputs:\n",
+       "\n",
+       "      role #variables\n",
+       "   outcome          1\n",
+       " predictor          8\n",
+       "\n",
+       "Operations:\n",
+       "\n",
+       "Creating missing data variable indicators for all_of(continuous), all_of(numeric), all_of(props)\n",
+       "Zero variance filter on all_numeric()\n",
+       "Mean imputation for all_of(numeric), all_of(props)\n",
+       "Mode imputation for all_of(categorical)\n",
+       "Logit transformation on all_of(props)\n",
+       "Orthogonal polynomials on all_of(numeric), all_of(props)\n",
+       "Centering and scaling for paste0(numeric, \"_poly_1\"), paste0(numeric, \"_p...\n",
+       "Dummy variables from all_of(nominal)"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "require(recipes)\n",
+    "\n",
+    "blueprint <- recipe(x  = abaloneAGE,\n",
+    "                    vars  = c(outcome,continuous,nominal),\n",
+    "                    roles = c(rep('predictor',8),'outcome'))    %>%\n",
+    "  step_indicate_na(all_of(continuous),all_of(numeric),all_of(props)) %>%\n",
+    "  step_zv(all_numeric())                                              %>%\n",
+    "  step_impute_mean(all_of(numeric),all_of(props)) %>%\n",
+    "  step_impute_mode(all_of(categorical)) %>%\n",
+    "  step_logit(all_of(props),offset = 0.001) %>%\n",
+    "  step_poly(all_of(numeric),all_of(props),degree=2) %>%\n",
+    "  \n",
+    "  # Standardize the natural splines of numeric variables and proportions\n",
+    "  \n",
+    "  step_normalize(paste0(numeric,'_poly_1'),\n",
+    "                 paste0(numeric,'_poly_2'),\n",
+    "                 paste0(props,'_poly_1'),\n",
+    "                 paste0(props,'_poly_2')) %>%\n",
+    "  \n",
+    "  # One-hot encoding for all categorical variables\n",
+    "  \n",
+    "  step_dummy(all_of(nominal),one_hot=TRUE)\n",
+    "\n",
+    "\n",
+    "\n",
+    "blueprint"
+   ]
   }
  ],
  "metadata": {
@@ -553,14 +972,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 8.031651,
-   "end_time": "2022-12-05T23:40:59.768710",
+   "duration": 7.705834,
+   "end_time": "2022-12-06T01:23:59.613023",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2022-12-05T23:40:51.737059",
+   "start_time": "2022-12-06T01:23:51.907189",
    "version": "2.4.0"
   }
  },
